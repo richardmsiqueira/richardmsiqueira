@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Richard Macedo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Richard Macedo Siqueira, tenho 17 anos e sou natural de Campinas, São Paulo. Estou concluindo o ensino médio no SESI, juntamente com curso técnico de Desenvolvimento de Sistemas no SENAI. Futuro engenheiro de software na USF.
+Me chamo Richard Macedo Siqueira, tenho 17 anos e sou de Campinas, São Paulo. Estou concluindo o ensino médio no SESI, juntamente com curso técnico de Desenvolvimento de Sistemas no SENAI. Futuro engenheiro de software na USF.
 
 ---
 
